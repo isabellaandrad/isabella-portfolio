@@ -54,7 +54,6 @@ portifolio/
 ## Contato
 
 - E-mail: [isaandrade2112@gmail.com](mailto:isaandrade2112@gmail.com)
-- Telefone: [(62) 9 9513-7246](tel:+5562995137246)
 - Localização: Goiânia, Goiás
 
 ---
