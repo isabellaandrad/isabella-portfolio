@@ -1,0 +1,11 @@
+# Arquivos de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos gerados pelo sistema
+.DS_Store
+Thumbs.db
+
+# Registros locais
+*.log
